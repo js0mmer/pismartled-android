@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pi Smart LED</string>
+    <string name="toggle_tile_name">Pi LED</string>
+    <string name="server_address">Server Address</string>
+    <string name="toggle_label">Toggle LED</string>
+    <string name="include_protocol">Must include protocol (http:// or https://)</string>
+    <string name="error_connecting">Could not connect to server</string>
+    <string name="success_connecting">Connected successfully</string>
+    <string name="connect">Connect</string>
+</resources>
