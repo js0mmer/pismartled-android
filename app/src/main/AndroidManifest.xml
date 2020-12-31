@@ -7,7 +7,7 @@
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
-            android:roundIcon="@mipmap/ic_launcher_round"
+            android:roundIcon="@mipmap/ic_launcher"
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             android:usesCleartextTraffic="true">
@@ -20,7 +20,7 @@
         </activity>
         <service
                 android:name=".ToggleTileService"
-                android:icon="@drawable/ic_lightbulb"
+                android:icon="@drawable/ic_wb_twilight"
                 android:label="@string/toggle_tile_name"
                 android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
 
